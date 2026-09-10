@@ -1,1 +1,1 @@
-# Game_Of_PokemonCards.
+# Game_Of_Cards.
